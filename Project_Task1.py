@@ -1,3 +1,9 @@
+'''
+The author(s) would like to acknowledge the use of Gemini, a language model developed by Google, 
+in the preparation of this assignment. The Gemini was used in the following way(s) in this assignment: 
+to suggest an efficient method for loading large datasets by selecting only necessary columns to optimize memory usage.
+'''
+
 import pandas as pd
 
 #Path for the all_pull_request table in the AIDev dataset on HuggingFace
@@ -53,4 +59,5 @@ def main():
     print(task1_df.head(5))
 
 if __name__ == "__main__":
+
     main()
