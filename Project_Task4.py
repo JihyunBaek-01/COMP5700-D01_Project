@@ -1,3 +1,10 @@
+'''
+The author(s) would like to acknowledge the use of Gemini, a language model developed by Google, 
+in the preparation of this assignment. The Gemini was used in the following way(s) in this assignment: 
+to suggest a method for removing special characters from text data to prevent encoding errors, and 
+to suggest an efficient method for loading large datasets by selecting only necessary columns.
+'''
+
 import pandas as pd
 import re
 
@@ -63,4 +70,5 @@ def main():
     print(f"Task 4 Completed. Rows: {len(task4_df)}")
 
 if __name__ == "__main__":
+
     main()
