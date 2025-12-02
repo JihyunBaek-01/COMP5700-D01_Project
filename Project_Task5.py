@@ -1,3 +1,10 @@
+'''
+The author(s) would like to acknowledge the use of Gemini, a language model developed by Google, 
+in the preparation of this assignment. The Gemini was used in the following way(s) in this assignment: 
+to suggest logic for case-insensitive keyword searching, methods for merging dataframes with different column names, 
+and techniques for handling missing values (NaN) when combining text columns.
+'''
+
 import pandas as pd
 import os
 
@@ -117,4 +124,5 @@ def main():
     print(final_df.head())
 
 if __name__ == "__main__":
+
     main()
