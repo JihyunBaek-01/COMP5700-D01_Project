@@ -1,5 +1,5 @@
 # COMP5700-D01 Course Project
-This repository contains the source code for the COMP5700 Course Project (Tasks 1-5).
+This repository contains the source code and CSV files for the COMP5700 Course Project (Tasks 1-5).
 
 The large CSV files (Task 1 and Task 4) exceed GitHub’s file size limit. 
 Project_Task1.csv and Project_Task4.csv outputs are shared via OneDrive:
